@@ -1,0 +1,16 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "mongoose": "^8.0.0"
+  }
+}
