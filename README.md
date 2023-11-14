@@ -8,7 +8,7 @@ Features to edit or delete the blogs are provided.
 ## Team Id
 Webit
 ## Link to product walkthrough
-[link to video](..)
+[[link to video](https://drive.google.com/file/d/1CveqFqGxQjztU5DYEqz_7JaS3t-QNsLw/view?usp=sharing)]
 ## How it Works ?
 1. Run the server and client to start the website.
 2. Register if you're a new user otherwise login with your credentials.
@@ -17,7 +17,28 @@ Webit
 5. Use the create button to write a new blog. Follow the interface and write your post
 6. Enjoy!
 ## Libraries used
-Library Name - Version
+### Frontend - React
+* React
+* React Router
+* CSS
+### Backend - Express and Node.js
+* Express
+* Mongoose
+### Database - MongoDB
+* MongoDB
+### Additional
+* jsonwebtoken (JWT)
+* bcrypt
+* path
+* cookie-parser
+* multer
+* react-quill
+* cors
+  
+
+
+
+
 ## How to configure
 1. Clone the repo to your computer.
 2. Install dependencies.
