@@ -1,4 +1,4 @@
-![StackUp Banner]([https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg])
+![StackUp Banner](https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg)
 # Webit
 This is user-friendly blogging website that allows users account creation,authentication and creations of blogs which can be controlled.
 Features to edit or delete the blogs are provided.
